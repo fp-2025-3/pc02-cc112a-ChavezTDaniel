@@ -24,7 +24,7 @@ for(int i=0;i<N;i++){
   cout<<"Ingrese fecha de nacimiento: "<<endl;
   cout<<"Dia: ";cin>>(*(ptr+i)).nacimiento.dia;
   cout<<"Mes: ";cin>>(*(ptr+i)).nacimiento.mes;
-  cout<<"Año: ";cin>>(*(ptr+i)).nacimiento.año;
+  cout<<"Dia: ";cin>>(*(ptr+i)).nacimiento.año;
 
 }
 int año;
