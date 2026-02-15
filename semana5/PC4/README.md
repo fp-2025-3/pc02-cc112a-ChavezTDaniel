@@ -1,3 +1,4 @@
+### No use Make asan debido a que estoy en window, y al usarlo me salen errores
 # Ejercicio 3 - salida numero 1  
 ![Salida1 1](https://github.com/user-attachments/assets/ec7ca88a-5866-47a1-b0fe-3245046a1529)
 ---
