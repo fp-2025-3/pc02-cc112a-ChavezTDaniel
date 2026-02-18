@@ -16,3 +16,8 @@
 ---
 # Ejercicio 1 - salida numero 2
 ![salida3 2](https://github.com/user-attachments/assets/56709a25-32c6-4988-ac29-6fc2ed01379d)
+# Ejercicio 2 - salida numero 1
+![salida2 1](https://github.com/user-attachments/assets/71b036b8-26e1-4b7e-8101-146bf51ff80e)
+---
+# Ejercicio 2 - salida numero 2
+![salida2 2](https://github.com/user-attachments/assets/6335da4f-f205-4faa-ab9e-982b79bf1c5a)
