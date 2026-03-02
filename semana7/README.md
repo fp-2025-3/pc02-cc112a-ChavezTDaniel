@@ -1,5 +1,5 @@
 # Salida ejercicio 2
-![salida2 1](https://github.com/user-attachments/assets/a00ba581-843e-473d-9948-fe88c3c5af2c
+<img width="705" height="317" alt="image" src="https://github.com/user-attachments/assets/464538bf-d839-4410-81ef-ad8670c24f88" />
 ---
 # Salida ejercicio 1
 <img width="616" height="106" alt="image" src="https://github.com/user-attachments/assets/212efc68-807e-4d7f-a1d6-5cffb7fbd103" />
